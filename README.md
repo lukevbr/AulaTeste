@@ -1,2 +1,0 @@
-# AulaTeste
-Projeto de teste
